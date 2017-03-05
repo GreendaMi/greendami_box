@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent_black">#77000000</color>
+    <color name="common_toolbar_bg">#8c92a1</color>
+    <color name="black">#000000</color>
+    <color name="common_tab_text_color">#343434</color>
+    <color name="common_gray_bg">#ececed</color>
+    <color name="common_divider">#cbcdd4</color>
+    <color name="common_text_hint">#9f9f9f</color>
+    <color name="common_red_color">#f56e4e</color>
+    <color name="common_dark_gray_text_color">#999999</color>
+    <color name="common_dark_gray_bg">#cbcdd4</color>
+    <color name="transparent">#00000000</color>
+    <color name="login_btn_bg">#f9960a</color>
+    <color name="navigation_view_personal_name_text_color">#bbbbc8</color>
+    <color name="navigation_view_menu_text_color">#858689</color>
+    <color name="navigation_bg_color">#3f4249</color>
+    <color name="elevator_work_state_normal_color">#45A130</color>
+    <color name="elevator_work_state_working_color">@color/common_red_color</color>
+    <color name="common_light_blue">#4A86D7</color>
+    <color name="floor_display_text_color">#77A4E1</color>
+
+    <!--以下是zhaopy添加 -->
+
+    <color name="colorPrimary">#49c29d</color>
+    <color name="colorPrimary_pressed">#159461</color>
+    <color name="colorPrimaryRed">#f56c65</color>
+    <color name="colorPrimaryRed_pressed">#eb2e28</color>
+    <color name="red">#FF0000</color>
+    <color name="blue">#4988c2</color>
+    <color name="blue_pressed">#154994</color>
+    <color name="normal_text">#666666</color>
+    <color name="dark_text">#333333</color>
+    <color name="normal_background">#f2f2f2</color>
+    <color name="dark_background">#e6e6e6</color>
+    <color name="normal_pressed">#f9f9f9</color>
+    <color name="deivide">#d4d4d4</color>
+    <color name="white">#ffffff</color>
+    <color name="login_line">#999999</color>
+
+    <color name="common_bg_tran">#aa414141</color>
+    <color name="colorPrimaryDark">#414141</color>
+    <color name="colorAccent">#f56e4e</color>
+
+    <color name="colorPrimaryRed_middle">#92f56c65</color>
+    <color name="colorPrimary_middle">#9249c29d</color>
+    <color name="colorPrimary_loop">#d0e7e0</color>
+    <color name="colorPrimaryRed_loop">#eadad9</color>
+    <color name="common_text_color">#333333</color>
+</resources>
